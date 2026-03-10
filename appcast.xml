@@ -11,6 +11,28 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.4.1</title>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 03:05:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.4.1</h2>
+                <ul>
+                    <li>Removed sidebar toggle button from toolbar</li>
+                    <li>Sidebar width now adapts per settings category</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.4.1/Sky-0.4.1.dmg"
+                sparkle:edSignature="IgPIr5FlaAKPiDJUlo1E+8s77T4GiDI0KV35xZAicGeG1P31LiBk7+MvK1hGbJ5apgQJeI3jerxaCZrLk60DBw=="
+                length="2442875"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.4.0</title>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
