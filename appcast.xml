@@ -11,6 +11,26 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.2.2</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:21:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.2.2</h2>
+                <ul>
+                    <li>Fix: Sparkle update installer now launches correctly</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.2.2/Sky-0.2.2.dmg"
+                sparkle:edSignature="6/P6ZuF4c5kMA8DIIbO80r4KVbHNad5S+O4xW46tgaxz3Rq/2ICDUwwt3Vk5sZneMgNJ+6+ajwrzmm0WT7jwCg=="
+                length="2447414"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Sky 0.2.1</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
@@ -21,7 +41,6 @@
                 <ul>
                     <li>Updates moved into the General settings tab</li>
                     <li>"Check for Updates…" added to the menu bar</li>
-                    <li>Bug fixes and stability improvements</li>
                 </ul>
             ]]></description>
             <enclosure
