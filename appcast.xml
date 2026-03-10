@@ -11,6 +11,28 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.0</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:31:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.0</h2>
+                <ul>
+                    <li>Menu bar icon now opens the capture controls directly</li>
+                    <li>Removed old button menu in favour of the launcher panel</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.0/Sky-0.3.0.dmg"
+                sparkle:edSignature="qsgT5KOTSE52fn7Q/NAuCn7EEcEk+wmI4fUPVALectFi76U8tzMUpZN1bcsclgZvTEEBXXEkavG5+BraNj5gBw=="
+                length="2443664"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.2.3</title>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
