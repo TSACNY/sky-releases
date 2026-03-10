@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.9</title>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:57:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.9</h2>
+                <ul>
+                    <li>Fix: Sparkle now correctly reads the live appcast feed</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.9/Sky-0.3.9.dmg"
+                sparkle:edSignature="MyZsf08PzLUyCiGE3JmnYYW4tfqXVu7rVa8Cn0+ZESFQ2+lv8jzVeB8+MdWZ7GxBP9D5Ec/B50FdQF0EHvTIDA=="
+                length="2455756"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.8</title>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
