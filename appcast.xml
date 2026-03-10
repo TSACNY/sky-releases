@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.1</title>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:34:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.1</h2>
+                <ul>
+                    <li>Removed menu bar icon and extra entirely</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.1/Sky-0.3.1.dmg"
+                sparkle:edSignature="W8cE6Na8m0e0JdXWWMg3jYaR/moh699QML3Q58zTZZHdSeX1mhcVYRQkTBtVdF01WgtLnx29chSEhVUr63nRDQ=="
+                length="2441880"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.0</title>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
