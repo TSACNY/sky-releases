@@ -11,6 +11,28 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.4.3</title>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 03:13:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.4.3</h2>
+                <ul>
+                    <li>Polished Settings and Check for Updates menu items</li>
+                    <li>Restored Sky's Notepad layout</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.4.3/Sky-0.4.3.dmg"
+                sparkle:edSignature="Bh8jmSrC1YgISBpwXfoYN8fvXxiFTBOogVOe3GmyGzEpabNZC3hDqOH/3X4ZxYvVLCjhNOEAaPFGZ/C4mlEZDg=="
+                length="2438722"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.4.2</title>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
