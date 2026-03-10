@@ -33,6 +33,28 @@
 
 
         <item>
+            <title>Sky 0.4.4</title>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 03:38:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.4.4</h2>
+                <ul>
+                    <li>Automation sidebar rows now show real Reminders, Calendar, and Clock app icons</li>
+                    <li>Removed Current Version and Last Checked rows from Updates settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.4.4/Sky-0.4.4.dmg"
+                sparkle:edSignature="cNAeBMYv9oerJW4ru7ZpxZSS45zH80CcT0lnUm3ELETJ5Yva6MqUJVsME04uSe7hTFLl5hQgEUHwae2lI4tcAg=="
+                length="2406372"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.4.5</title>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
