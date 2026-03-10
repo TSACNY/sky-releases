@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.7</title>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:52:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.7</h2>
+                <ul>
+                    <li>Fix: "Check for Updates" menu item no longer appears disabled</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.7/Sky-0.3.7.dmg"
+                sparkle:edSignature="QBXCSgumHp9akQmdH+kVAZghXj15KdWKzk8f8Gx/27CX8WODi7F/oX2I7CcozhZcJuHLKNfZwLSXPJeskhNRAw=="
+                length="2449216"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.6</title>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
