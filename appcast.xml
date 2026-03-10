@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.5</title>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:48:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.5</h2>
+                <ul>
+                    <li>Removed "Check for Updates Now" button from General settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.5/Sky-0.3.5.dmg"
+                sparkle:edSignature="Rbm1flFu4ZVyDostgX8AO1JTQMM2V1PPEbHw4RpCqjEQcW6HMJOD0dEY/9tPpevu3gVYHv0omUPNHt8FfQc6Dw=="
+                length="2449907"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.4</title>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
