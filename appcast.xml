@@ -6,10 +6,31 @@
 >
     <channel>
         <title>Sky</title>
-        <link
-        >https://raw.githubusercontent.com/TSACNY/sky-releases/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/TSACNY/sky-releases/main/appcast.xml</link>
         <description>Sky app releases and update feed</description>
         <language>en</language>
+
+        <item>
+            <title>Sky 0.2.1</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 00:00:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.2.1</h2>
+                <ul>
+                    <li>Updates moved into the General settings tab</li>
+                    <li>"Check for Updates…" added to the menu bar</li>
+                    <li>Bug fixes and stability improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.2.1/Sky-0.2.1.dmg"
+                sparkle:edSignature="fxcJLHZ0PScW8jslQ5qbYCEseVTqkkosBZ/efzjTSwbkXR3waq2A+meGdFkZ4BvvuHs0dVvPg5jIni0V7VFXDw=="
+                length="2447411"
+                type="application/octet-stream"
+            />
+        </item>
 
         <item>
             <title>Sky 0.2.0</title>
@@ -17,18 +38,16 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-            <description
-            ><![CDATA[
+            <description><![CDATA[
                 <h2>Sky 0.2.0</h2>
-                <p>Secondary release of Sky.</p>
                 <ul>
                     <li>Second public release</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.2.0/Sky-0.2.0.dmg"
-                sparkle:edSignature="yyCt/71aCuuM1BY4bmvYKLbv6ktl6zTl5R+lF91ytCOxQJyhb/mOego+FghOX2SuAoZumm7ea09O+isMPNIZDw=="
-                length="2835817"
+                sparkle:edSignature="TRr8yRY3PHFK6+7EL4WfDmYQUTVDmmIymG0djYiAa6AOaNVkrvlHFiUJN6vDkZEqwSPzFr8+vXqCh2yMW+cjCw=="
+                length="2446930"
                 type="application/octet-stream"
             />
         </item>
@@ -39,10 +58,8 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-            <description
-            ><![CDATA[
+            <description><![CDATA[
                 <h2>Sky 0.1.0</h2>
-                <p>Initial release of Sky.</p>
                 <ul>
                     <li>First public release</li>
                 </ul>
