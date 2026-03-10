@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.8</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:54:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.8</h2>
+                <ul>
+                    <li>Check for Updates no longer requires quitting the app to see the update dialog</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.8/Sky-0.3.8.dmg"
+                sparkle:edSignature="HxCTvdgV8MjVdyDcYurNgeJZQTw6LIlTCfxqE3GziRBoDbjDHyOVPjY/7BaG1nyCQWg9B46F8GrEjtsUy6eVCg=="
+                length="2456257"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.7</title>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
