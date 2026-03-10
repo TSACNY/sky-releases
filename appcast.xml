@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Sky</title>
+        <link>https://raw.githubusercontent.com/TSACNY/sky-releases/main/appcast.xml</link>
+        <description>Sky app releases and update feed</description>
+        <language>en</language>
+
+        <item>
+            <title>Sky 0.1.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.1.0</h2>
+                <p>Initial release of Sky.</p>
+                <ul>
+                    <li>First public release</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.1.0/Sky-0.1.0.dmg"
+                sparkle:edSignature="5wOr4f0sOCh1TxYoIXM3CVk8iXsTyHde4VAnGoznF0q5mRIz2r2+rCiXeJAxzsFdRq34S7kbh/YqwswG/GENCQ=="
+                length="1844699"
+                type="application/octet-stream"
+            />
+        </item>
+
+    </channel>
+</rss>
