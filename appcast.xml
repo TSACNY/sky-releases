@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Sky</title>
-        <link>https://raw.githubusercontent.com/TSACNY/sky-releases/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/TSACNY/sky-releases/libdeflate/appcast.xml</link>
         <description>Sky app releases and update feed</description>
         <language>en</language>
 
@@ -20,7 +20,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.1.0/Sky-0.1.0.dmg"
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/libdeflate/releases/v0.1.0/Sky-0.1.0.dmg"
                 sparkle:edSignature="yyCt/71aCuuM1BY4bmvYKLbv6ktl6zTl5R+lF91ytCOxQJyhb/mOego+FghOX2SuAoZumm7ea09O+isMPNIZDw=="
                 length="2835817"
                 type="application/octet-stream"
