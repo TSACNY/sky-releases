@@ -12,6 +12,28 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.5.2.1</title>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.5.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 19:27:00 +0000</pubDate>
+            <description
+            ><![CDATA[
+                <h2>Sky 0.5.2.1</h2>
+                <ul>
+                    <li>Internal test release (undoes audio button, no user-facing changes)</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.5.2.1/Sky-0.5.2.1.dmg"
+                sparkle:edSignature="ieLsyJ2SIGF25LXl7gUrXdUYRdLlMuwMrzkg6pspfeQFf0RrgE3a1iqoPKsmuPVNU+Cyx84lOH5yJEbFUbX4Bw=="
+                length="3017191"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.5.2</title>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
