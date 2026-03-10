@@ -11,8 +11,11 @@ sky-releases/
 ├── appcast.xml          # Sparkle auto-update feed (consumed by the app)
 ├── README.md
 └── releases/
-    └── v0.1.0/
-        ├── Sky-0.1.0.dmg
+    ├── v0.1.0/
+    │   ├── Sky-0.1.0.dmg
+    │   └── release-notes.md
+    └── v0.2.0/
+        ├── Sky-0.2.0.dmg
         └── release-notes.md
 ```
 
@@ -112,6 +115,7 @@ Once pushed, live users running an older version will be notified of the update 
 
 | Version | Date | Notes |
 |---------|------|-------|
+| [0.2.0](releases/v0.2.0/release-notes.md) | 2026-03-09 | Second release |
 | [0.1.0](releases/v0.1.0/release-notes.md) | 2025-06-16 | Initial release |
 
 ---

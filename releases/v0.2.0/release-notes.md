@@ -1,26 +1,32 @@
-# Sky 0.1.0
+# Sky 0.2.0
 
-**Released:** June 16, 2025
+**Released:** March 9, 2026
 
 ---
 
 ## What's New
 
-This is the first public release of Sky. 🎉
-
 ### Features
 
-- Initial release
+- Placeholder feature
+
+### Improvements
+
+- Placeholder improvement
+
+### Bug Fixes
+
+- Placeholder bug fix
 
 ---
 
 ## Installation
 
-1. Download `Sky-0.1.0.dmg`
+1. Download `Sky-0.2.0.dmg`
 2. Open the disk image and drag **Sky.app** into your Applications folder
 3. Launch Sky from Applications or Spotlight
 
-> **Note:** Sky requires macOS 13.0 or later.
+> **Note:** Sky requires macOS 15.0 or later.
 
 ---
 
@@ -32,4 +38,4 @@ None at this time.
 
 ## Feedback
 
-Found a bug or have a suggestion? Please [open an issue](https://github.com/TSACNY/sky-releases/issues).
+Found a bug or have a suggestion? Please [open an issue](https://github.com/SACNY/sky-releases/issues).
