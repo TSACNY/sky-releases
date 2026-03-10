@@ -11,6 +11,30 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.4.2</title>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 03:10:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.4.2</h2>
+                <ul>
+                    <li>Settings selection is now persistent across launches</li>
+                    <li>Removed search from sidebar</li>
+                    <li>Removed navigationSplitViewColumnWidth constraint</li>
+                    <li>Improved Sky's Notepad layout</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.4.2/Sky-0.4.2.dmg"
+                sparkle:edSignature="Jm7fK8yHse3zeJsqghs4ucK2DBZtvWsGelrmQaNgOzvfQUsvOvwq/Jp1j7cR37bjC/U7xEe3lXmfqVM4427rAQ=="
+                length="2405509"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.4.1</title>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
