@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.2</title>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:37:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.2</h2>
+                <ul>
+                    <li>Settings and Check for Updates added to the menu bar with SF Symbols</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.2/Sky-0.3.2.dmg"
+                sparkle:edSignature="JCO3cqSZo8LD+RiC91Obpwn86wrVF3JLYpT/X8bE71zsmyEieH5uMl/eFueCP2p7rAaoigo2V9s3GC5gmcgEBA=="
+                length="2446265"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.1</title>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
