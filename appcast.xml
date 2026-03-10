@@ -11,6 +11,27 @@
         <language>en</language>
 
         <item>
+            <title>Sky 0.3.3</title>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 02:43:00 +0000</pubDate>
+            <description><![CDATA[
+                <h2>Sky 0.3.3</h2>
+                <ul>
+                    <li>Removed Show Tab Bar and Show All Tabs from the View menu</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.3.3/Sky-0.3.3.dmg"
+                sparkle:edSignature="g5Osq1JGLcEEeTiYl2KW2h6sJ/U55cG9RAns0nm5LiExPRPVYTW2jTmvYRIioOUikjFN2lKNaZHPLueiA8kMAA=="
+                length="2446919"
+                type="application/octet-stream"
+            />
+        </item>
+
+
+        <item>
             <title>Sky 0.3.2</title>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
