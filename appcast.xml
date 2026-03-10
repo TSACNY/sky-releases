@@ -6,7 +6,8 @@
 >
     <channel>
         <title>Sky</title>
-        <link>https://raw.githubusercontent.com/TSACNY/sky-releases/main/appcast.xml</link>
+        <link
+        >https://raw.githubusercontent.com/TSACNY/sky-releases/main/appcast.xml</link>
         <description>Sky app releases and update feed</description>
         <language>en</language>
 
@@ -16,7 +17,8 @@
             <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:38:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.4</h2>
                 <ul>
                     <li>Automation sidebar rows now show real Reminders, Calendar, and Clock app icons</li>
@@ -31,6 +33,28 @@
             />
         </item>
 
+        <item>
+            <title>Sky 0.5.1</title>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 10 Mar 2026 19:18:00 +0000</pubDate>
+            <description
+            ><![CDATA[
+                <h2>Sky 0.5.1</h2>
+                <ul>
+                    <li>Moved open.wav to Assets folder</li>
+                    <li>Internal test release for update validation</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/TSACNY/sky-releases/main/releases/v0.5.1/Sky-0.5.1.dmg"
+                sparkle:edSignature="a83LWzPPfG9gWbDfKL24ED9yXdbk/6Poov9si9hG6hsiJUTIdbYNf485p/tSf75LnwNDORcUf2sy2UZbNZE9Dg=="
+                length="3017151"
+                type="application/octet-stream"
+            />
+        </item>
+
 
         <item>
             <title>Sky 0.4.4</title>
@@ -38,7 +62,8 @@
             <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:38:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.4</h2>
                 <ul>
                     <li>Automation sidebar rows now show real Reminders, Calendar, and Clock app icons</li>
@@ -60,7 +85,8 @@
             <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:44:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.5</h2>
                 <ul>
                     <li>Sky's Notepad is now a single continuous document feed</li>
@@ -86,7 +112,8 @@
             <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:38:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.4</h2>
                 <ul>
                     <li>Automation sidebar rows now show real Reminders, Calendar, and Clock app icons</li>
@@ -108,7 +135,8 @@
             <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:31:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.3</h2>
                 <ul>
                     <li>Sidebar rebuilt with native SF Symbols; Sky's Notepad retains its custom icon</li>
@@ -129,7 +157,8 @@
             <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:24:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.2</h2>
                 <ul>
                     <li>Restored native NavigationSplitView sidebar</li>
@@ -150,7 +179,8 @@
             <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:13:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.3</h2>
                 <ul>
                     <li>Polished Settings and Check for Updates menu items</li>
@@ -172,7 +202,8 @@
             <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:10:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.2</h2>
                 <ul>
                     <li>Settings selection is now persistent across launches</li>
@@ -196,7 +227,8 @@
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:05:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.1</h2>
                 <ul>
                     <li>Removed sidebar toggle button from toolbar</li>
@@ -218,7 +250,8 @@
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 03:00:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.4.0</h2>
                 <ul>
                     <li>Removed section headers from all settings categories</li>
@@ -239,7 +272,8 @@
             <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:57:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.9</h2>
                 <ul>
                     <li>Fix: Sparkle now correctly reads the live appcast feed</li>
@@ -260,7 +294,8 @@
             <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:54:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.8</h2>
                 <ul>
                     <li>Check for Updates no longer requires quitting the app to see the update dialog</li>
@@ -281,7 +316,8 @@
             <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:52:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.7</h2>
                 <ul>
                     <li>Fix: "Check for Updates" menu item no longer appears disabled</li>
@@ -302,7 +338,8 @@
             <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:50:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.6</h2>
                 <ul>
                     <li>Alerts &amp; Sounds: removed ghost divider, badges footer, and section headers</li>
@@ -323,7 +360,8 @@
             <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:48:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.5</h2>
                 <ul>
                     <li>Removed "Check for Updates Now" button from General settings</li>
@@ -344,7 +382,8 @@
             <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:46:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.4</h2>
                 <ul>
                     <li>Check for Updates is now significantly faster</li>
@@ -365,7 +404,8 @@
             <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:43:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.3</h2>
                 <ul>
                     <li>Removed Show Tab Bar and Show All Tabs from the View menu</li>
@@ -386,7 +426,8 @@
             <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:37:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.2</h2>
                 <ul>
                     <li>Settings and Check for Updates added to the menu bar with SF Symbols</li>
@@ -407,7 +448,8 @@
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:34:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.1</h2>
                 <ul>
                     <li>Removed menu bar icon and extra entirely</li>
@@ -428,7 +470,8 @@
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:31:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.3.0</h2>
                 <ul>
                     <li>Menu bar icon now opens the capture controls directly</li>
@@ -450,7 +493,8 @@
             <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:25:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.2.3</h2>
                 <ul>
                     <li>Version now shown at the bottom of the menu bar popover</li>
@@ -470,7 +514,8 @@
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 02:21:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.2.2</h2>
                 <ul>
                     <li>Fix: Sparkle update installer now launches correctly</li>
@@ -490,7 +535,8 @@
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 10 Mar 2026 00:00:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.2.1</h2>
                 <ul>
                     <li>Updates moved into the General settings tab</li>
@@ -511,7 +557,8 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.2.0</h2>
                 <ul>
                     <li>Second public release</li>
@@ -531,7 +578,8 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-            <description><![CDATA[
+            <description
+            ><![CDATA[
                 <h2>Sky 0.1.0</h2>
                 <ul>
                     <li>First public release</li>
